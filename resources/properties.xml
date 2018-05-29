@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>xml example</comment>
+    <entry key="serverName">localhost</entry>
+    <entry key="serverPort">3306</entry>
+    <entry key="dbName">chains_of_stores</entry>
+    <entry key="user">root</entry>
+    <entry key="password">1234</entry>
+</properties>

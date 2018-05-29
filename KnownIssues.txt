@@ -1,0 +1,4 @@
+We have 2 issues that we would like to let you know about:
+1.	No time-out for a single thread to stop its task in case it takes too long time.
+2.	Need to improve documentation.
+
