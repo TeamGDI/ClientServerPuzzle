@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
-import com.att.biq.puzzle.utility.ValidatePuzzleSolution;
+import com.att.biq.puzzle.server.ValidatePuzzleSolution;
 
 import java.io.IOException;
 import java.util.Arrays;

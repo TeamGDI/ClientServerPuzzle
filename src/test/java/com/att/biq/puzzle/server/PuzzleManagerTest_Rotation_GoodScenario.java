@@ -1,7 +1,7 @@
 package com.att.biq.puzzle.server;
 
 import com.att.biq.puzzle.server.PuzzleManager;
-import com.att.biq.puzzle.utility.ValidatePuzzleSolution;
+import com.att.biq.puzzle.server.ValidatePuzzleSolution;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;

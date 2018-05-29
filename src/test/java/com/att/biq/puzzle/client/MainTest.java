@@ -1,6 +1,7 @@
 package com.att.biq.puzzle.client;
 
 import com.att.biq.puzzle.server.ValidatePuzzleSolution;
+import com.att.biq.puzzle.user.Main;
 import org.junit.Test;
 
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.att.biq.puzzle.utility;
+package com.att.biq.puzzle.server;
 
 import org.junit.Test;
 

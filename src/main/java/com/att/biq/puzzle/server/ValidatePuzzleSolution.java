@@ -1,4 +1,4 @@
-package com.att.biq.puzzle.utility;
+package com.att.biq.puzzle.server;
 
 import java.io.BufferedReader;
 import java.io.File;
